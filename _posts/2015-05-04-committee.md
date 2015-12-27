@@ -1,0 +1,15 @@
+-   Barry Bandstra (bandstra@hope.edu), Director of Academic Computing
+    and Professor of Religion, Hope College, Holland, MI (Teagle Project
+    Director)
+-   David Berk (david.berk@lawrence.edu), Director of Instructional
+    Technology, Lawrence University, Appleton WI
+-   James Brown (brownj@wabash.edu), Professor of Physics, Wabash
+    College, Crawfordsville, IN
+-   David Lopatto (lopatto@grinnell.edu), Professor of Psychology,
+    Grinnell College, Grinnell, IA
+-   Donnie Sendelbach (donniesendelbach@depauw.edu), Director of
+    Instructional and Learning Services, DePauw University, Greencastle,
+    IN
+-   John Woell (jwoell@albion.edu), Associate Provost and Professor of
+    Religious Studies, Albion College, Albion, MI
+
