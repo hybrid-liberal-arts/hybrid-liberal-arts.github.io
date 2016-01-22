@@ -10,12 +10,12 @@ relative_permalinks: true
 title:            Hybrid Liberal Arts Network
 tagline:          ‘High-Touch Learning for the 21st Century’
 description:      A Teagle Project of the Midwest Hybrid Learning Consortium
-url:              http://hybridliberalarts.org
+url:              http://hybrid-liberal-arts.github.io
 baseurl:          /
 
 author:
   name:           ‘Barry Bandstra’
-  url:            http://hybridliberalarts.org
+  url:            http://barrybandstra.com
 
 paginate:         5
 
