@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Hybrid Liberal Arts Network
 tagline:          ‘High-Touch Learning for the 21st Century’
 description:      A Teagle Project of the Midwest Hybrid Learning Consortium
-url:              
+url:              hybrid-liberal-arts.github.io
 baseurl:          /
 
 author:
@@ -23,4 +23,4 @@ paginate:         5
 version:          1.0
 
 github:
-  repo:           https://hybrid-liberal-arts.github.io
+  repo:           https://hybrid-liberal-arts/hybrid-liberal-arts.github.io
