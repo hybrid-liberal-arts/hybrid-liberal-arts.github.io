@@ -1,3 +1,8 @@
+---
+layout: post
+title: Teagle project steering committee
+---
+
 -   Barry Bandstra (bandstra@hope.edu), Director of Academic Computing
     and Professor of Religion, Hope College, Holland, MI (Teagle Project
     Director)

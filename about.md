@@ -3,28 +3,12 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Welcome to the Hybrid Liberal Arts Network site!
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Here you will find information about the exciting hybrid learning project of the Midwest Hybrid Learning Consortium, a collaboration of Ablion College, DePauw University, Grinnell College, Hope College, Lawrence University, and Wabash College.
 
-There are currently two themes built on Poole:
+We have joined together in order to develop hybrid and online materials to expand liberal arts opportunities for our students. Working together we are expanding the kinds of courses we can make available to our students, and the range of excellent teacher-scholars they might have access to.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+On this site you will find resources related to hybrid and online liberal arts learning, course project descriptions and resources, and grant related documents.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+[Barry Bandstra](http://barrybandstra.com), Hope College, Project director

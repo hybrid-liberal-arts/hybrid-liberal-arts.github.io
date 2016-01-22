@@ -1,3 +1,8 @@
+---
+layout: post
+title: Initial faculty interest
+---
+
 In late 2014 the steering committee invited faculty to express interest in the Teagle project, with the goal of identifying faculty who would be interested in creating hybrid courses and working collaboratively across institutions to teach them. Here are the results:  
   
 Timestamp  

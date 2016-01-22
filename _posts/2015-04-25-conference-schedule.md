@@ -1,3 +1,7 @@
+---
+layout: post
+title: 2015 Conference Schedule
+---
 ##### Hope College Haworth Inn and Conference Center, Holland, Michigan -- June 7-9
 
 -   A workshop for all faculty interested in hybrid learning and the

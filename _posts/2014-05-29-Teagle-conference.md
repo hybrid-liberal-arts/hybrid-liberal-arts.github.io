@@ -1,3 +1,8 @@
+---
+layout: post
+title: 2015 Teagle Hybrid Learning Conference
+---
+
 The Teagle hybrid learning conference was held at the Hope College Haworth Conference Center on June 7-9, 2015. The full schedule of the conference can be found (http://hybridliberalarts.org/)here.
 
 

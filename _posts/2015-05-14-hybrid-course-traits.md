@@ -1,3 +1,8 @@
+---
+layout: post
+title: Hybrid course traits
+---
+
 A well-designed hybrid course typically . . .
 
 -   Places emphasis on learning as an active process, not as passive
