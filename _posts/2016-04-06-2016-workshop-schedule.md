@@ -13,7 +13,7 @@ title: 2016 Workshop Schedule
 ###1:00-1:30 (John Woell)
 Clarification of expectations for the workshop and grant, including Q and A. 
 
-- Visit the “Workshop goals” page of the [Hybrid Liberal Arts](hybridliberalarts.org) site.
+- Visit the [Workshop goals](http://hybridliberalarts.org/2016/04/05/workshop-goals/) page below.
 
 ###1:30-2:00 (Donnie Sendelbach and David Berk)
 Brief project management overview
