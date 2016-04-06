@@ -2,7 +2,7 @@
 layout: post
 title: 2016 Workshop Schedule
 ---
-
+##Wabash College Trippet Hall
 #FRIDAY April 22
 ##Lunch
 ###12:00-1:00 (Barry Bandstra)
