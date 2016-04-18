@@ -2,7 +2,7 @@
 layout: post
 title: Workshop goals
 ---
-The following project-related aspects will be addressed in the workshop by the work we do there.
+This is what we expect to accomplish over the course of the workshop, so that by the end of the workshop, we've accomplished 
 
 ##Learning goals
 - What are the learning goals for the students in each course module?

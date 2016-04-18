@@ -35,8 +35,10 @@ Brief project management overview
 
 ##4:00-4:15 Short Break
 
-###4:15-5:45 (ADA and Charlie Blaich/CILA on assessment)
+###4:15-4:45 ADA Compliance (Barry Bandstra)
 - Review work on module to include in written plan steps are needed for ADA/508c compliance (e.g., means to create closed caption for video, image tags, etc.)
+
+### 4:45-5:45 Assessment (CILA/Charlie Blaich and Kathy Wise)
 - Review work on module to include in written plan steps for pre-deployment feedback plus formative and summative assessment mechanisms
 - Assessment gathering and collection site
 
@@ -70,7 +72,11 @@ Discussion of what hybrid/online means in our liberal arts courses
 ##Lunch
 ###11:30-12:30
 
-###1:00-3:00 (James Brown and Beth Trembley)
+###1:00-1:30 Gamification (Adam Galambos)
+
+Adam is currently exploring gamification in an Economics course this term and will talk about how the course is structured, demonstrate the 3DGameLab platform, and reflect on his experiences so far.
+
+###1:30-3:00 (James Brown and Beth Trembley)
 Final push on project and next steps planning
 
  - Return to pre-workshop Google Doc to review components listed and to verify work completed has included these components 
