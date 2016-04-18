@@ -35,10 +35,10 @@ Brief project management overview
 
 ##4:00-4:15 Short Break
 
-###4:15-4:45 ADA Compliance (Barry Bandstra)
+###4:15-5:00 ADA Compliance (Juli Smith)
 - Review work on module to include in written plan steps are needed for ADA/508c compliance (e.g., means to create closed caption for video, image tags, etc.)
 
-### 4:45-5:45 Assessment (CILA/Charlie Blaich and Kathy Wise)
+### 5:00-5:45 Assessment (CILA/Charlie Blaich and Kathy Wise)
 - Review work on module to include in written plan steps for pre-deployment feedback plus formative and summative assessment mechanisms
 - Assessment gathering and collection site
 
