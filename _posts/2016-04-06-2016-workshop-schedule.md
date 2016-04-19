@@ -3,6 +3,7 @@ layout: post
 title: 2016 Workshop Schedule
 ---
 ##Wabash College Trippet Hall
+410 W Wabash Ave, Crawfordsville, IN 47933. (765) 361-6490
 #FRIDAY April 22
 ##Lunch
 ###12:00-1:00 (Barry Bandstra)
@@ -29,9 +30,9 @@ Brief project management overview
 ###2:00-4:00 (Donnie Sendelbach and David Berk)
 - Time in teams or individually to work on one module plan in detail. 
 - Decide on content, how it will be delivered, tested, in-class activities (if flipping). 
-- Begin writing materials.*
-
-*During all project work time, steering committee members and instructional technologists will be on hand to help teams as needed.
+- Begin writing materials.
+- During all project work time, steering committee members and instructional technologists will be on hand to help teams as needed.
+- Concurrently at some point the steering committee confers with Charlie Blaich and Kathy Wise to review the assessment plan.
 
 ##4:00-4:15 Short Break
 
@@ -40,7 +41,7 @@ Brief project management overview
 
 ### 5:00-5:45 Assessment (CILA/Charlie Blaich and Kathy Wise)
 - Review work on module to include in written plan steps for pre-deployment feedback plus formative and summative assessment mechanisms
-- Assessment gathering and collection site
+- Assessment data gathering, collecting, and viewing
 
 ###5:45-6:00 (individually)
 - Report out to steering committee member from your institution, including questions on Friday’s work and what the goals are for the end of Saturday.
@@ -62,6 +63,7 @@ Groups begin work by reviewing previous day’s work
 - What additional considerations have arisen overnight? 
 - What do you want to tweak before continuing with this module or starting planning on second one?
 - Write in Google Doc questions and concerns at end of work.
+- Charlie Blaich is available to consult with project teams regarding assessment strategies
 
 ###11:00-11:30 (Beth Trembley)
 Discussion of what hybrid/online means in our liberal arts courses
