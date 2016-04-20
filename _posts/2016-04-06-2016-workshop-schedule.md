@@ -49,7 +49,6 @@ Brief project management overview
 
 ###5:45-6:00 (individually)
 - Report out to steering committee member from your institution, including questions on Friday’s work and what the goals are for the end of Saturday.
-- Steering committee puts info collected into shared Google Doc to use for brief overview at 7:30.
 
 ##6:00 Open Bar
 
