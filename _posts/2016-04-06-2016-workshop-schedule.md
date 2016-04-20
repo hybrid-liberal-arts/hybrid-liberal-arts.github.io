@@ -41,7 +41,7 @@ Brief project management overview
 - Concurrently at some point the steering committee confers with Charlie Blaich and Kathy Wise to review the assessment plan.
 
 ###4:15-5:00 ADA Compliance (Juli Smith)
-- Review work on module to include in written plan steps are needed for ADA/508c compliance (e.g., means to create closed caption for video, image tags, etc.)
+- An overview of laws and regulations applicable to accessibility of online course materials, discussion of universal design and its benefits and requirements, and work session on outlining project needs with regard to accessibility.
 
 ### 5:00-5:45 Assessment (CILA/Charlie Blaich and Kathy Wise)
 - Review work on module to include in written plan steps for pre-deployment feedback plus formative and summative assessment mechanisms
