@@ -5,7 +5,9 @@ title: 2016 Workshop Schedule
 ##Wabash College Trippet Hall
 410 W Wabash Ave, Crawfordsville, IN 47933. (765) 361-6490
 
-Note: All meals will be served in the Trippet Hall Dining Room
+- All-group meetings will be in Trippet 123.
+- Workshops will be in Hays 104 and Hays 003
+- Meals will be served in the Trippet Hall Dining Room
 
 #FRIDAY April 22
 ##Lunch (Trippet Hall Dining Room)
