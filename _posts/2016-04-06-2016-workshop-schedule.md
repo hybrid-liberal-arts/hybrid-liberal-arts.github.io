@@ -36,7 +36,7 @@ Brief project management overview
 
 ###2:00-4:15 (Donnie Sendelbach and David Berk: Groups 1-4/Hays 003 and Groups 5-8/Hays 104)
 - Time in teams or individually to work on one course module plan in detail.
-- Each group creates a **shared Google doc** that contains the following information: names of instructors and technologists, contact information, project title, skills and experiences willing to offer, courses with goals and student outcomes, timeline.
+- Each instructor from each group adds information to our [Google doc](https://docs.google.com/forms/d/1idx1KvIAKbS1TlfKy_DIdzrwJzUIHMEMlMXij7HL_P0/viewform) that contains the following information: names of instructors and technologists, project title, skills and experiences willing to offer, courses with goals and student outcomes and timeline.
 - Decide on content, how it will be delivered, tested, in-class activities (if flipping). 
 - Begin writing materials.
 - During all project work time, steering committee members and instructional technologists will be on hand to help teams as needed.
