@@ -3,6 +3,16 @@ layout: post
 title: Working Groups and Emails
 ---
 
+##Workshop working groups:
+1. Brown, MacInnes, Technologist
+2. Reimann, Balasubramanian, Technologist
+3. Betz, Ball, Technologist
+4. Galambos, Barreto, Technologist
+5. Trembley, Seltzer-Kelly, Technologist
+6. Loy, Petit, Hristova, Pikaart, Technologist
+7. Smith, Bandstra, Technologist
+8. Technologist working group to brainstorm video, module archiving, server, project management, and other comprehensive project issues
+
 ##Project teams:
 
 Harry Brown (DePauw) and Ian MacInnes (Albion). English, digital humanities
@@ -22,16 +32,6 @@ Beth Trembley (Hope) and Deborah Seltzer-Kelly (Wabash) in writing and education
 Martyn Smith (Lawrence) and Barry Bandstra (Hope) in religion, Quran, Hebrew Bible.
 
 ###[Project descriptions](http://hybridliberalarts.org/2016/04/01/hybrid-projects/)
-
-##Workshop working groups:
-1. Brown, MacInnes, Technologist
-2. Reimann, Balasubramanian, Technologist
-3. Betz, Ball, Technologist
-4. Galambos, Barreto, Technologist
-5. Trembley, Seltzer-Kelly, Technologist
-6. Loy, Petit, Hristova, Pikaart, Technologist
-7. Smith, Bandstra, Technologist
-
 
 ##Instructor addresses:
 Adam Loy <adam.m.loy@lawrence.edu>

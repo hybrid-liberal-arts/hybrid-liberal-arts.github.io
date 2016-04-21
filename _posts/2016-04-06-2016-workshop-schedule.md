@@ -9,6 +9,8 @@ title: 2016 Workshop Schedule
 - Breakout workshops will be in Hays 104 and Hays 003
 - Meals will be served in the Trippet Hall Dining Room
 
+###[Working Groups and Emails](http://hybridliberalarts.org/2016/04/02/working-groups-and-emails/)
+
 #FRIDAY April 22
 ##Lunch (Trippet Hall Dining Room)
 ###12:00-1:00 (Barry Bandstra: Trippet Dining Room)
@@ -32,7 +34,7 @@ Brief project management overview
 - Prototyping and collecting feedback before using in a course
 - Managing scope creep
 
-###2:00-4:15 (Donnie Sendelbach and David Berk: Hays 104 and Hays 003)
+###2:00-4:15 (Donnie Sendelbach and David Berk: Groups 1-4/Hays 003 and Groups 5-8/Hays 104)
 - Time in teams or individually to work on one course module plan in detail.
 - Each group creates a **shared Google doc** that contains the following information: names of instructors and technologists, contact information, project title, skills and experiences willing to offer, courses with goals and student outcomes, timeline.
 - Decide on content, how it will be delivered, tested, in-class activities (if flipping). 
@@ -67,7 +69,7 @@ Unstructured time for project teams to discuss projects ...or whatever.
 #SATURDAY April 23
 ## 7:30-8:30 Breakfast (Trippet Hall Dining Room)
 
-###9:00-11:00 (Donnie Sendelbach and David Berk: Hays 104 and Hays 003)
+###9:00-11:00 (Donnie Sendelbach and David Berk: Groups 1-4/Hays 003 and Groups 5-8/Hays 104)
 Groups will individually review previous day’s work following discussion of:
 
 - Outline of common concerns, common threads, etc. from Friday 5:45 briefings.
@@ -88,7 +90,7 @@ Discussion of what hybrid/online means in our liberal arts courses
 
 Adam is currently exploring gamification in an Economics course this term and will talk about how the course is structured, demonstrate the 3DGameLab platform, and reflect on his experiences so far.
 
-###1:00-3:00 (James Brown and Beth Trembley: Hays 104 and Hays 003)
+###1:00-3:00 (James Brown and Beth Trembley: Groups 1-4/Hays 003 and Groups 5-8/Hays 104)
 Final push on project and next steps planning.
 
  - Return to pre-workshop [Workshop goals](http://hybridliberalarts.org/2016/04/05/workshop-goals/) doc to review components listed and to verify that our work completed has included these components.
@@ -101,7 +103,7 @@ Final push on project and next steps planning.
 ###3:00-4:00 (John Woell and Barry Bandstra: Trippet 123)
 BRIEF 5-minute report out by teams. Each team's instructional technologist will video record the report.
 
-Create a shared Google Doc to-do list of the following:
+Each group adds to our shared Google Doc TO-DO list of the following:
 
  - What is needed from the consortium to continue project work?
  - Looking ahead to creating a hybrid liberal arts network for sharing the hybrid/online material and courses that we create:
@@ -110,4 +112,4 @@ Create a shared Google Doc to-do list of the following:
 	- What needs do teams have for project management assistance?  How can the consortium contribute and help?
 	- How might we incentivize participating institutions to share unique expertise of instructional technologists for a project on another campus without adding to their workload?
 
-
+###Post-workshop Survey
