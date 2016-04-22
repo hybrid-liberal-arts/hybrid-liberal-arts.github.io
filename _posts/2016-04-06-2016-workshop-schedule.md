@@ -34,7 +34,7 @@ Brief project management overview
 - Prototyping and collecting feedback before using in a course
 - Managing scope creep
 
-###2:00-4:15 (Donnie Sendelbach and David Berk: Groups 1-4/Hays 003 and Groups 5-8/Hays 104)
+###2:00-4:15 (Donnie Sendelbach and David Berk: Groups 1-4/Hays 003 and Groups 5-7/Hays 104)
 - Time in teams or individually to work on one course module plan in detail.
 - Each instructor from each group adds information to our [Google doc](https://docs.google.com/forms/d/1idx1KvIAKbS1TlfKy_DIdzrwJzUIHMEMlMXij7HL_P0/viewform) that contains the following information: names of instructors and technologists, project title, skills and experiences willing to offer, courses with goals and student outcomes and timeline.
 - Decide on content, how it will be delivered, tested, in-class activities (if flipping). 
@@ -69,7 +69,7 @@ Unstructured time for project teams to discuss projects ...or whatever.
 #SATURDAY April 23
 ## 7:30-8:30 Breakfast (Trippet Hall Dining Room)
 
-###9:00-11:00 (Donnie Sendelbach and David Berk: Groups 1-4/Hays 003 and Groups 5-8/Hays 104)
+###9:00-11:00 (Donnie Sendelbach and David Berk: Groups 1-4/Hays 003 and Groups 5-7/Hays 104)
 Groups will individually review previous day’s work following discussion of:
 
 - Outline of common concerns, common threads, etc. from Friday 5:45 briefings.
@@ -90,7 +90,7 @@ Discussion of what hybrid/online means in our liberal arts courses
 
 Adam is currently exploring gamification in an Economics course this term and will talk about how the course is structured, demonstrate the 3DGameLab platform, and reflect on his experiences so far.
 
-###1:00-3:00 (James Brown and Beth Trembley: Groups 1-4/Hays 003 and Groups 5-8/Hays 104)
+###1:00-3:00 (James Brown and Beth Trembley: Groups 1-4/Hays 003 and Groups 5-7/Hays 104)
 Final push on project and next steps planning.
 
  - Return to pre-workshop [Workshop goals](http://hybridliberalarts.org/2016/04/05/workshop-goals/) doc to review components listed and to verify that our work completed has included these components.
