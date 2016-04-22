@@ -11,6 +11,8 @@ title: 2016 Workshop Schedule
 
 ###[Working Groups and Emails](http://hybridliberalarts.org/2016/04/02/working-groups-and-emails/)
 
+###[Teagle Project Planning Docs on Google Drive](https://drive.google.com/a/hope.edu/folderview?id=0B9GaW3m3lB3oMXZMbExJdTB2R1U&usp=sharing_eid&ts=5719652d)
+
 #FRIDAY April 22
 ##Lunch (Trippet Hall Dining Room)
 ###12:00-1:00 (Barry Bandstra: Trippet Dining Room)
