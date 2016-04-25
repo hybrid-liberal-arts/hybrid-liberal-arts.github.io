@@ -91,7 +91,7 @@ Groups will individually review previous day’s work following discussion of:
 - Write in Google Doc questions and concerns at end of work.
 - Charlie Blaich is available to consult with project teams regarding assessment strategies
 
-[Beth Trembley's morning basics sketchnote](http://faculty.hope.edu/bandstra/teagle/trembley-morning_basics_sketchnote.pdf)
+[Beth Trembley's morning business sketchnote](http://faculty.hope.edu/bandstra/teagle/trembley-morning_business_sketchnote.pdf)
 
 ###11:00-11:30 (Beth Trembley: Trippet 123)
 Discussion of what hybrid/online means in our liberal arts courses
