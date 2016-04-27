@@ -2,18 +2,18 @@
 layout: post
 title: 2016 Workshop Schedule
 ---
-##Wabash College Trippet Hall
+## Wabash College Trippet Hall
 410 W Wabash Ave, Crawfordsville, IN 47933. (765) 361-6490
 
 - Plenary meetings will be in Trippet 123.
 - Breakout workshops will be in Hays 104 and Hays 003
 - Meals will be served in the Trippet Hall Dining Room
 
-###[Working Groups and Emails](http://hybridliberalarts.org/2016/04/02/working-groups-and-emails/)
+### [Working Groups and Emails](http://hybridliberalarts.org/2016/04/02/working-groups-and-emails/)
 
-###[Teagle Project Planning Docs on Google Drive](https://drive.google.com/a/hope.edu/folderview?id=0B9GaW3m3lB3oMXZMbExJdTB2R1U&usp=sharing_eid&ts=5719652d)
+### [Teagle Project Planning Docs on Google Drive](https://drive.google.com/a/hope.edu/folderview?id=0B9GaW3m3lB3oMXZMbExJdTB2R1U&usp=sharing_eid&ts=5719652d)
 
-###[Collected Wisdom shared Google Doc](https://docs.google.com/document/d/1p_qJUYW3kmWeGWb0kyHeiBUaVViazOujFfJqpHwkAjY/edit?ts=571b782d)
+### [Collected Wisdom shared Google Doc](https://docs.google.com/document/d/1p_qJUYW3kmWeGWb0kyHeiBUaVViazOujFfJqpHwkAjY/edit?ts=571b782d)
 - Please share your tips, techniques, and experience here.
 
 #FRIDAY April 22
