@@ -17,7 +17,9 @@ title: 2016 Workshop Schedule
 - Please share your tips, techniques, and experience here.
 
 # FRIDAY April 22
+
 ## Lunch (Trippet Hall Dining Room)
+
 ### 12:00-1:00 (Barry Bandstra: Trippet Dining Room)
 - Welcome and update on grant progress
 - Brief intro of teams (name, title, institution, 1-2 sentences about collaboration)
@@ -69,6 +71,7 @@ Brief project management overview
 ## 6:30 Open Bar
 
 ## 7:00 Dinner (Trippet Hall Dining Room)
+
 ### 7:00-8:00 (James Brown and Barry Bandstra)
 Enjoy dinner and conversation.
 
@@ -77,6 +80,7 @@ Unstructured time for project teams to discuss projects, play poker... or whatev
 
 
 # SATURDAY April 23
+
 ## 7:30-8:30 Breakfast (Trippet Hall Dining Room)
 
 ### 9:00-11:00 (Donnie Sendelbach and David Berk: plenary in Trippet 123 then team meetings in Trippet)
