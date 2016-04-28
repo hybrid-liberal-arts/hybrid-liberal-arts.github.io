@@ -3,7 +3,8 @@ layout: post
 title: Working Groups and Emails
 ---
 
-##Workshop working groups:
+## Workshop working groups:
+
 1. Brown, MacInnes, Technologist
 2. Reimann, Balasubramanian, Technologist
 3. Betz, Ball, Technologist
@@ -13,7 +14,7 @@ title: Working Groups and Emails
 7. Smith, Bandstra, Technologist
 8. Technologist working group to brainstorm video, module archiving, server, project management, and other comprehensive project issues
 
-##Project teams:
+## Project teams:
 
 Harry Brown (DePauw) and Ian MacInnes (Albion). English, digital humanities
 
@@ -31,9 +32,10 @@ Beth Trembley (Hope) and Deborah Seltzer-Kelly (Wabash) in writing and education
 
 Martyn Smith (Lawrence) and Barry Bandstra (Hope) in religion, Quran, Hebrew Bible.
 
-###[Project descriptions](http://hybridliberalarts.org/2016/04/01/hybrid-projects/)
+### [Project descriptions](http://hybridliberalarts.org/2016/04/01/hybrid-projects/)
 
-##Instructor addresses:
+## Instructor addresses:
+
 Adam Loy <adam.m.loy@lawrence.edu>
 Shonda Kuiper <kuipers@grinnell.edu>
 Heather Betz <hbetz@albion.edu>
@@ -55,7 +57,8 @@ Marcy Sacks <msacks@albion.edu>
 Deborah Seltzer-Kelly <seltzerd@wabash.edu>
 Maria Hristova <mariahristova@depauw.edu>
 
-##Support addresses:
+## Support addresses:
+
 Arno Damerow <arno.b.damerow@lawrence.edu>
 Michael Reisterer <reisterer@hope.edu>
 Leo Herzog <herzog@hope.edu>
@@ -64,7 +67,8 @@ Veronica Pejril <veronicapejril@depauw.edu>
 Beth Wilkerson <bwilkerson@depauw.edu>
 David Neville <nevilled@grinnell.edu>
 
-##Steering committee addresses:
+## Steering committee addresses:
+
 Barry Bandstra <bandstra@hope.edu>
 David Berk <david.berk@lawrence.edu>
 James Brown <brownj@wabash.edu>

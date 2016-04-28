@@ -11,6 +11,10 @@ University, Hope College, and Wabash College in the effort to pioneer a
 hybrid liberal arts network of institutions that would share hybrid
 modules and courses. 
 
+[Albion College press release](https://www.albion.edu/academics/departments/history/department-news/13190-teagle-grant-connects-albion-classes-with-other-liberal-arts-colleges)
+
+[Albion College press release](https://www.albion.edu/news-and-events/recent-news/news-archive/735-academics/12552-albion-partners-in-hybrid-learning-project-funded-by-teagle-foundation)
+
 [Hope College press
 release](http://www.hope.edu/2015/03/10/teagle-foundation-funds-hybrid-learning-network-liberal-arts-colleges)
 

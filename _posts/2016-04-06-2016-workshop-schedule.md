@@ -108,8 +108,7 @@ Adam is currently exploring gamification in an Economics course this term and wi
 
 - [Adam's videos](http://adamgalambos.com/videos)
 - [Adam's course syllabus](http://tinyurl.com/econ225syllabus)
-
-[Beth Trembley's gamification sketchnote](http://faculty.hope.edu/bandstra/teagle/trembley-gamification_sketchnote.pdf)
+- [Beth Trembley's gamification sketchnote](http://faculty.hope.edu/bandstra/teagle/trembley-gamification_sketchnote.pdf)
 
 ### 1:15-1:30 Intellectual Property Issues (David Reimann: Trippet 123)
 - [David Reimann's intellectual property slides](http://faculty.hope.edu/bandstra/teagle/reimann-ip_issues.pdf)
