@@ -16,6 +16,8 @@ author:
   name:           ‘Barry Bandstra’
   url:            http://barrybandstra.com
 
+gems:             [jekyll-paginate, jekyll-gist]
+
 paginate:         5
 
 # Custom vars

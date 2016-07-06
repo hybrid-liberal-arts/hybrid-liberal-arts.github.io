@@ -87,9 +87,10 @@ deliver the Teagle hybrid courses
 -   College administrations and the hybrid network - John Woell, Albion
     College
 
-12:00 Box lunches Adjournment \*\*\*\*\*\*\*\*\*\*\*\*\* **Keynote
--- "Creating the Liberal Arts Environment Online:  Design Considerations
-for Hybrid and Online Courses"** Some people worry that the distinctives
+12:00 Box lunches Adjournment \*\*\*\*\*\*\*\*\*\*\*\*\* **
+
+##Keynote -- "Creating the Liberal Arts Environment Online:  Design Considerations for Hybrid and Online Courses"
+Some people worry that the distinctives
 of liberal arts education can't survive in hybrid and online courses. 
 Of particular concern is students' experience of community and the
 development of relationships with each other and with the faculty
@@ -101,7 +102,9 @@ medium, educators can create a thriving liberal arts environment online
 by transforming traditional approaches and techniques. In fact, I have
 found that high touch learning experiences can be even better online!
 Examples from hybrid and online writing classes will help participants
-think about their own courses. **Elizabeth A Trembley** earned her Ph.D.
+think about their own courses.
+
+_Elizabeth A Trembley_ earned her Ph.D.
 in 1991 from the University of Chicago in English Language and
 Literature.  While serving for nearly a decade as the Head of Academics
 and Faculty Development at a multi-campus university, she received
@@ -115,11 +118,12 @@ traditional, hybrid, and online courses in writing.  Her scholarship
 includes publications on Michael Crichton, film adaptations of novels,
 women in detective fiction ... and Batman, and her creative work
 includes both fiction and nonfiction.   Currently, Trembley is
-completing a book for faculty entitled *How to Use Writing To Teach
-Anything*.  She is also an award-winning mystery novelist, a certified
-master dog trainer, and a habitual sketchbook keeper. **Keynote --
-"Implementing and Assessing Flipped Learning in Face-to-Face and Online
-Contexts"** Flipped learning promotes the kind of intellectual
+completing a book for faculty entitled _How to Use Writing To Teach
+Anything_.  She is also an award-winning mystery novelist, a certified
+master dog trainer, and a habitual sketchbook keeper. 
+
+##Keynote -- "Implementing and Assessing Flipped Learning in Face-to-Face and Online Contexts"
+Flipped learning promotes the kind of intellectual
 independence and self-motivation that real-world problems desperately
 need, and it's never been easier to implement a flipped classroom with
 the wealth of inexpensive and simple technology available to students
@@ -128,7 +132,9 @@ approach to maximize its effectiveness and improve student learning,
 especially in hybrid and online settings. In this talk, we'll explore
 what flipped learning actually looks like as well as the role of
 assessment in flipped learning, in a traditional face-to-face course
-design as well as hybrid and online courses. **Robert Talbert** is an
+design as well as hybrid and online courses.
+
+_Robert Talbert_ is an
 Associate Professor in the Mathematics Department at Grand Valley State
 University in Allendale, Michigan USA. Dr. Talbert is a pioneer in the
 use of flipped learning in university-level courses in mathematics and
