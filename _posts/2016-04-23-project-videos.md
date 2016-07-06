@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Project Videos
 ---
 These are videos captured by Arno Damerow and David Berk from Lawrence using an iPhone and a mini desk tripod. Each short video contains a description of a Teagle hybrid learning project.
