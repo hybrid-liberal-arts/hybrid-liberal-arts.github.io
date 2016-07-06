@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Workshop goals
 ---
 This is what we expect to accomplish over the course of the workshop, so that by the end of the workshop, we've accomplished 

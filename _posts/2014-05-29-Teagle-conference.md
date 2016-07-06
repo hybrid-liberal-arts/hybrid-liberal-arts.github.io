@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 2015 Teagle Hybrid Learning Conference
 ---
 

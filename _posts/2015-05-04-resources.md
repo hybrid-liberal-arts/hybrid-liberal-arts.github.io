@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Hybrid/Online learning resources
 ---
 

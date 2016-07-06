@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 2015 Conference Schedule
 ---
 ##### Hope College Haworth Inn and Conference Center, Holland, Michigan -- June 7-9

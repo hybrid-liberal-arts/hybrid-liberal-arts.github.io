@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Hybrid Projects
 ---
 ### [Harry Brown](mailto:<hbrown@depauw.edu>) (DePauw) and [Ian MacInnes](mailto:<imacinnes@albion.edu>) (Albion) in English and digital humanities.
